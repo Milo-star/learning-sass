@@ -56,8 +56,8 @@ body .card section header {
   position: relative;
 }
 body .card section header span {
-  border-radius: 100px;
-  width: 2em;
+  border-radius: 120px;
+  width: 3em;
   height: 2em;
   line-height: 1;
   text-align: center;
